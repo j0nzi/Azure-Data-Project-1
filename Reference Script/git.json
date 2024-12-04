@@ -35,7 +35,7 @@
         "p_sink_file" : "AdventureWorks_Sales_2015.csv"
     },
     {
-        "p_rel_url" : "j0nzi/Azure-Data-Project-1/refs/heads/main/Data/Data/AdventureWorks_Sales_2016.csv",
+        "p_rel_url" : "j0nzi/Azure-Data-Project-1/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
         "p_sink_folder" : "AdventureWorks_Sales_2016",
         "p_sink_file" : "AdventureWorks_Sales_2016.cvsv"
     },
@@ -45,7 +45,7 @@
         "p_sink_file" : "AdventureWorks_Sales_2017.csv"
     },
     {
-        "p_rel_url" : "j0nzi/Azure-Data-Project-1/refs/heads/main/Data/main/Data/AdventureWorks_Territories.csv",
+        "p_rel_url" : "j0nzi/Azure-Data-Project-1/refs/heads/main/Data/AdventureWorks_Territories.csv",
         "p_sink_folder" : "AdventureWorks_Territories",
         "p_sink_file" : "AdventureWorks_Territories.csv"
     }
